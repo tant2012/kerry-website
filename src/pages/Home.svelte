@@ -12,8 +12,9 @@
 </script>
 
 <section class="relative flex min-h-[600px] h-screen items-end overflow-hidden">
-  <video class="absolute inset-0 h-full w-full object-cover" autoplay muted loop playsinline preload="auto" >
+  <video class="absolute inset-0 h-full w-full object-cover" autoplay muted loop playsinline preload="metadata" >
     <source src="https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/hero.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
   </video>
   <div class="absolute inset-0 bg-gradient-to-t from-bg/90 via-bg/40 to-bg/10"></div>
   <div class="relative z-10 max-w-xl px-6 pb-20 lg:pl-16">
