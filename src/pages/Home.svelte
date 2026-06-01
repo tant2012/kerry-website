@@ -5,15 +5,15 @@
   const trust = ['🇨🇳 National Carbon Center', '🇷🇺 Gazprom Media', '🇨🇳 Tsinghua University SEM', '🇨🇳 Fudan University EMBA', '🇶🇦 UHNW Families · Qatar', '🇿🇦 Private Client · South Africa', '🇮🇹 Global Impact Teams', '🇳🇱 Netherlands Consulate · Shanghai'];
 
   const services = [
-    ['Private Groups & Families', 'Private Events & Celebrations', 'Exclusive venues, full production, bilingual coordination. From intimate dinners to 200-guest galas.', 'Index/homepage-events.jpg', '/services#private-events'],
-    ['International Groups', 'Cultural Experiences', 'Adventures and hutong immersions, designed around your group and interests.', 'Index/homepage-cultural.jpg', '/services#cultural'],
-    ['Companies & Institutions', 'Corporate & Conference Support', 'Bilingual coordination for VIP groups and conferences: interpretation, transport, and multi-city logistics.', 'Index/homepage-corporate.JPG', '/services#corporate']
+    ['Private Groups & Families', 'Private Events & Celebrations', 'Exclusive venues, full production, bilingual coordination. From intimate dinners to 200-guest galas.', 'https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/homepage-events.jpg', '/services#private-events'],
+    ['International Groups', 'Cultural Experiences', 'Adventures and hutong immersions, designed around your group and interests.', 'https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/homepage-cultural.jpg', '/services#cultural'],
+    ['Companies & Institutions', 'Corporate & Conference Support', 'Bilingual coordination for VIP groups and conferences: interpretation, transport, and multi-city logistics.', 'https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/homepage-corporate.JPG', '/services#corporate']
   ];
 </script>
 
 <section class="relative flex min-h-[600px] h-screen items-end overflow-hidden">
   <video class="absolute inset-0 h-full w-full object-cover" autoplay muted loop playsinline preload="auto" >
-    <source src={asset('Index/hero.mp4')} type="video/mp4" />
+    <source src="https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/hero.mp4" type="video/mp4" />
   </video>
   <div class="absolute inset-0 bg-gradient-to-t from-bg/90 via-bg/40 to-bg/10"></div>
   <div class="relative z-10 max-w-xl px-6 pb-20 lg:pl-16">
@@ -44,7 +44,7 @@
     {#each services as item}
       <article class="panel overflow-hidden transition hover:-translate-y-1 hover:border-gold/35">
         <div class="relative h-64">
-          <img class="h-full w-full object-cover" src={asset(item[3])} alt={item[1]} />
+          <img class="h-full w-full object-cover" src={item[3]} alt={item[1]} />
           <span class="absolute left-4 top-4 border border-gold/50 bg-black/80 px-2.5 py-1 text-[11px] font-bold uppercase tracking-wider text-gold">{item[0]}</span>
         </div>
         <div class="p-7">
@@ -87,7 +87,7 @@
       <p class="mb-5 max-w-2xl text-creamMuted">Founder, lead coordinator, and Shanghai-based event producer with 6+ years delivering premium events and cultural programmes across China.</p>
       <a class="btn btn-outline" href="/about">About Kerry →</a>
     </div>
-    <img class="h-[500px] w-full rounded object-cover" src={asset('Index/kerry-teaser.jpg')} alt="Kerry Kong" />
+    <img class="h-[500px] w-full rounded object-cover" src="https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/kerry-teaser.jpg" alt="Kerry Kong" />
   </div>
 </section>
 

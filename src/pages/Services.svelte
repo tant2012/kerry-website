@@ -58,7 +58,7 @@
   <section id={sector.id} class:alt={sector.alt} class="section-pad">
     <div class="container-page">
       <div class:md:[direction:rtl]={index === 1} class="mb-14 grid items-center gap-12 md:grid-cols-2">
-        <img class="h-[420px] w-full rounded object-cover md:[direction:ltr]" src={asset(sector.image)} alt={sector.title} />
+        <img class="h-[420px] w-full rounded object-cover md:[direction:ltr]" src={`https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/${(sector.image)}`} alt={sector.title} />
         <div class="md:[direction:ltr]">
           <p class="section-label">{sector.label}</p>
           <h2 class="display-2 mb-5">{sector.title}</h2>

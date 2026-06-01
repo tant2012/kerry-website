@@ -4,7 +4,7 @@
 
 <section class="bg-forest px-6 pb-20 pt-36 lg:px-10">
   <div class="mx-auto grid max-w-7xl items-center gap-12 md:grid-cols-[420px_1fr]">
-    <img class="h-[560px] w-full rounded object-cover object-top" src={asset('About/kerry-potrait.jpg')} alt="Kerry Kong" />
+    <img class="h-[560px] w-full rounded object-cover object-top" src="https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/kerry-potrait.jpg" alt="Kerry Kong" />
     <div>
       <p class="section-label">Founder & Lead Coordinator</p>
       <h1 class="display-1 mb-4">Kerry Kong</h1>

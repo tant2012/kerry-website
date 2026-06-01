@@ -12,7 +12,7 @@
 <article class:expanded class="overflow-hidden rounded-md border border-gold/20 bg-[#1b1a17] transition">
   <button class="block w-full text-left" on:click={onToggle}>
     <div class="relative h-60 overflow-hidden">
-      <img class="h-full w-full object-cover" src={asset(item.cover)} alt={item.title} />
+      <img class="h-full w-full object-cover" src={`https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/${(item.cover)}`} alt={item.title} />
       <div class="absolute bottom-3 left-3 flex gap-2 text-[11px] font-medium">
         <span class="rounded bg-bg/80 px-2.5 py-1 text-cream">{item.city}</span>
         <span class="rounded bg-gold px-2.5 py-1 text-bg">{item.type}</span>
@@ -39,7 +39,7 @@
               <p class="mb-2 text-[11px] uppercase tracking-[0.18em] text-gold">{group.label}</p>
               <div class="gallery-grid">
                 {#each group.images as image}
-                  <img class={image[0]} src={asset(image[1])} alt={item.title} style:object-position={image[2] ?? 'center'} />
+                  <img class={image[0]} src={`https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/${image[1]}`} alt={item.title} style:object-position={image[2] ?? 'center'} />
                 {/each}
               </div>
             </section>
@@ -48,7 +48,7 @@
       {:else}
         <div class="gallery-grid p-5">
           {#each images(item) as image}
-            <img class={image[0]} src={asset(image[1])} alt={item.title} style:object-position={image[2] ?? 'center'} />
+            <img class={image[0]} src={`https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/${image[1]}`} alt={item.title} style:object-position={image[2] ?? 'center'} />
           {/each}
         </div>
       {/if}
