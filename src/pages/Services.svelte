@@ -51,7 +51,7 @@
 <section class="px-6 pb-16 pt-40 text-center lg:px-10">
   <p class="section-label">Services</p>
   <h1 class="display-1 mb-4">Three sectors. Locally mastered.</h1>
-  <p class="subline mx-auto">What we deliver, at a glance. Real examples on <a class="border-b border-gold text-gold" href="/work">Our Work</a>.</p>
+  <p class="subline mx-auto">What we deliver, at a glance. Real examples on <a class="border-b border-gold text-gold" href="/cases">Our Work</a>.</p>
 </section>
 
 {#each sectors as sector, index}
