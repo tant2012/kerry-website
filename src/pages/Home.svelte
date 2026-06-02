@@ -85,7 +85,7 @@
     <div>
       <p class="section-label">Who is behind this?</p>
       <h2 class="display-2 mb-6">Kerry Kong</h2>
-      <p class="mb-5 max-w-2xl text-creamMuted">Founder, lead coordinator, and Shanghai-based event producer with 6+ years delivering premium events and cultural programmes across China.Her clients span academic institutions, corporate delegations, and UHNW private families from 8 countries across Europe, the Middle East, and beyond.</p>
+      <p class="mb-5 max-w-2xl text-creamMuted">Founder, lead coordinator, and Shanghai-based event producer with 6+ years delivering premium events and cultural programmes across China. Her clients span academic institutions, corporate delegations, and UHNW private families from 8 countries across Europe, the Middle East, and beyond.</p>
       <a class="btn btn-outline" href="/about">About Kerry →</a>
     </div>
     <img class="h-[500px] w-full rounded object-cover" src="https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/kerry-teaser.jpg" alt="Kerry Kong" />

@@ -7,10 +7,10 @@
     <div>
       <div class="font-display text-xl font-medium">Lux<span class="text-gold">China</span>Compass</div>
       <p class="mt-4 text-sm leading-7 text-creamMuted">Event production and cultural experiences for international clients across China.</p>
-      <p class="mt-3 text-xs leading-6 text-creamMuted/50">上海慧利佳商务咨询有限公司<br />Shanghai Huilijia Business Consulting Co. Ltd</p>
+      <p class="mt-3 text-xs leading-6 text-creamMuted/50">上海乐客思文化传媒有限公司<br />Shanghai Huilijia Business Consulting Co. Ltd</p>
       <div class="mt-5 flex flex-wrap gap-3">
-        <a class="border border-gold/25 px-3 py-1.5 text-xs text-creamMuted hover:border-gold hover:text-gold" href="https://www.xiaohongshu.com/user/profile/KK_15903680743" target="_blank" rel="noopener">小红书 Xiaohongshu</a>
-        <button class="border border-gold/25 px-3 py-1.5 text-xs text-creamMuted hover:border-gold hover:text-gold" on:click={onOpenWeChat}>微信 WeChat</button>
+        <a class="border border-gold/25 px-3 py-1.5 text-xs text-creamMuted hover:border-gold hover:text-gold" href="https://www.xiaohongshu.com/user/profile/KK_15903680743" target="_blank" rel="noopener">Rednote</a>
+        <button class="border border-gold/25 px-3 py-1.5 text-xs text-creamMuted hover:border-gold hover:text-gold" on:click={onOpenWeChat}>WeChat</button>
       </div>
     </div>
     <div>
@@ -27,7 +27,7 @@
         <a href="/" class="hover:text-gold">Home</a>
         <a href="/cases" class="hover:text-gold">Our Work</a>
         <a href="/services" class="hover:text-gold">Services</a>
-        <a href="/about" class="hover:text-gold">About Kerry</a>
+        <a href="/about" class="hover:text-gold">About Us</a>
       </div>
     </div>
   </div>
