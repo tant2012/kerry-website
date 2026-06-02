@@ -122,7 +122,7 @@ Every city has its own version of access like this. What we arrange in Beijing, 
   {
     id: 'scientists',
     category: 'corporate',
-    city: 'Nanping',
+    city: 'Multiple city',
     type: 'Corporate',
     title: 'MICE Support',
     client: 'National Carbon Measurement Center · Nanping, Fujian',
@@ -152,7 +152,7 @@ Every city has its own version of access like this. What we arrange in Beijing, 
     description:
 "Executive study tours and innovation visits designed for business schools, MICE groups, and international delegations seeking credible access to China's business and technology ecosystem.",
     details:
-      'Study programmes and innovation visits designed for business schools, MICE groups, and international delegations seeking credible access to China’s business and technology ecosystem.',
+"Private access to China's leading technology campuses — not public tours, but direct briefings with engineers and management, facilitated in English and tailored to your group's sector. DJI Shenzhen headquarters: walk the drone production line with working engineers and take part in a hands-on drone test-flight session. Xiaomi Beijing: design studios and EV production processes. Campus visits also available at XPENG, BYD, Alibaba, ByteDance, Tencent, and Huawei. For UHNW families and younger guests: hands-on drone demonstrations. Available standalone or as part of a multi-city MICE programme.",
     gallery: [
       ['portrait', 'China innovative site/D2DC6ACB-F1D0-4ADA-92BE-9E402F667C38.jpg'],
       ['portrait', 'China innovative site/IMG_8055.jpg'],
@@ -232,5 +232,61 @@ Every city has its own version of access like this. What we arrange in Beijing, 
       ['portrait', 'Winter Expedition/IMG_7740.jpg', 'center bottom'],
       ['square', 'Winter Expedition/IMG_4705.JPG']
     ]
+  },
+  {
+    id: 'helicopter-tour',
+    category: 'events',
+    city: 'Beijing & Shanghai',
+    type: 'Event',
+    title: 'Helicopter Tour',
+    client: 'Private Clients',
+    cover: 'Helicopter/Shanghai/IMG_7950.JPG',
+    description:
+"Private helicopter tour over Shanghai or Beijing — the city from the air, reserved for your group. Available for sunset flights, New Year's Eve, marriage proposals, and milestone celebrations. No scheduled tours. Fully private.",
+    details:
+"Shanghai: private helicopter over the Huangpu River at 300m altitude — sweeping past Lujiazui, Oriental Pearl Tower, Jin Mao Tower, Shanghai Tower, and the historic Bund. Signature routes include sunset over the Bund, a Disney fireworks circuit approaching from the air, and New Year's Eve above the lit towers. Beijing: private cabin flight over the Great Wall, landing at a hillside vineyard for a private chef dinner — ideal for marriage proposals and milestone celebrations. Up to two guests per cabin. In-cabin flowers and catering available on request.",
+    /**
+     * <div class="card-gallery">
+      <!-- Shanghai: Skyline + New Year Celebration -->
+      <div class="gallery-masonry">
+        <div class="photo-slot" data-aspect="portrait" data-src="Helicopter/Shanghai/IMG_6758.JPG"              data-position="center 40%"  ><div class="slot-inner"></div></div>
+        <div class="photo-slot" data-aspect="square"   data-src="Helicopter/Shanghai/IMG_7949.JPG"              data-position="center center"><div class="slot-inner"></div></div>
+        <div class="photo-slot" data-aspect="portrait" data-src="Helicopter/Shanghai/IMG_4526 copy 2.jpg"       data-position="center top"  ><div class="slot-inner"></div></div>
+        <div class="photo-slot" data-aspect="square"   data-src="Helicopter/Shanghai/9355F834-F1A9-42F1-A281-9D2FFD5223B1.jpg" data-position="center center"><div class="slot-inner"></div></div>
+      </div>
+      <div class="gallery-group-desc">
+        <p>Private helicopter tours along the Huangpu River at 300m altitude — a low-altitude sweep over Shanghai's most iconic skyline, departing from Pudong and sweeping past the Lujiazui financial district, the Oriental Pearl Tower, Jin Mao Tower, Shanghai Tower, and the historic Bund with its row of European colonial-era landmarks. At cruising altitude, guests fly level with The Stage observation deck atop White Magnolia Plaza — one of the highest viewpoints in the city. Signature routes include sunset departures timed to golden hour over the Bund; a Shanghai Disney fireworks circuit, approaching Disneyland from the air before turning north along the Huangpu to Lujiazui for the full night-light panorama; and New Year's Eve flights where guests celebrate above the city as the LED countdown display illuminates the towers below. Fully customised itineraries, in-cabin flowers, and catering available on request.</p>
+      </div>
+      <!-- Beijing: Great Wall + Vineyard Proposal -->
+      <div class="gallery-masonry">
+        <div class="photo-slot" data-aspect="portrait" data-src="Helicopter/Beijing/32BB9F6A-F5D1-46B2-AD41-9C154EE87EDF.jpg" data-position="center center"><div class="slot-inner"></div></div>
+        <div class="photo-slot" data-aspect="portrait" data-src="Helicopter/Beijing/IMG_7188.JPG"                               data-position="center top"  ><div class="slot-inner"></div></div>
+        <div class="photo-slot" data-aspect="square"   data-src="Helicopter/Beijing/IMG_7190.JPG"                               data-position="center center"><div class="slot-inner"></div></div>
+        <div class="photo-slot" data-aspect="square"   data-src="Helicopter/Beijing/31B4774D-F066-4E60-AE8F-E40BC4B77C3A.jpg"  data-position="center center"><div class="slot-inner"></div></div>
+      </div>
+      <div class="gallery-group-desc">
+        <p>Private helicopter flight over Beijing's Great Wall — the only way to see China's most iconic landmark from the air, without crowds, in a fully private cabin. Routes combine a low-altitude pass over the Wall with a landing at a vineyard near Beijing, where a private chef dinner awaits. Ideal for marriage proposals, anniversary milestones, and private milestone experiences. Each flight accommodates up to two guests in a single private cabin.</p>
+      </div>
+      <div class="gallery-footer">
+        <div class="btn-row">
+          <a href="https://wa.me/31610993119?text=Hi%20Kerry%2C%20I%27d%20like%20to%20discuss%20the%20Helicopter%20Tours%20experience." class="btn-wa-gallery" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.611.611l4.458-1.495A11.952 11.952 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.287 0-4.4-.763-6.097-2.05a.5.5 0 00-.404-.084l-3.2 1.072 1.072-3.2a.5.5 0 00-.084-.404A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
+            WhatsApp Us
+          </a>
+          <button class="btn-close" onclick="closeCard()">Close</button>
+        </div>
+      </div>
+     */
+    gallery: [
+      ['portrait', 'Helicopter/Shanghai/IMG_6758.JPG', 'center 40%'],
+      ['square', 'Helicopter/Shanghai/IMG_7949.JPG', 'center center'],
+      ['portrait', 'Helicopter/Shanghai/IMG_4526 copy 2.jpg', 'center top'],
+      ['square', 'Helicopter/Shanghai/9355F834-F1A9-42F1-A281-9D2FFD5223B1.jpg', 'center center'],
+      ['portrait', 'Helicopter/Beijing/32BB9F6A-F5D1-46B2-AD41-9C154EE87EDF.jpg', 'center center'],
+      ['portrait', 'Helicopter/Beijing/IMG_7188.JPG', 'center top'],
+      ['square', 'Helicopter/Beijing/IMG_7190.JPG', 'center center'],
+      ['square', 'Helicopter/Beijing/31B4774D-F066-4E60-AE8F-E40BC4B77C3A.jpg', 'center center']
+    ]
   }
+
 ];

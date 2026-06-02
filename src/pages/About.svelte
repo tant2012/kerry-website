@@ -24,8 +24,7 @@
       <p>Sourcing the right people. Running events across multiple cities. Delivering to international standards.</p>
       <p>The real challenge runs deeper than logistics. Clients arrive with a clear vision and high expectations. What they need is someone who can receive that vision at the right depth, carry it into local execution without losing the intent, and hold that standard through every detail and contingency.</p>
       <p>Kerry leads a network of 50+ vetted specialists: certified simultaneous interpreters, private chefs, cultural masters, and production staff deployed across China. Professional interpretation available in English, French, Spanish, Arabic, and Russian, with diplomatic and conference credentials.</p> 
-      <p>For confidential or high-profile engagements - private individuals, restricted venues, or sensitive delegations - all projects operate under formal NDA. Advance coordination is completed for every international group programme: venue scouting, route planning, emergency protocols. Client security team liaison is available on request.
-      English-language contracts and VAT-compliant invoicing are standard.</p>
+      <p>For confidential or high-profile engagements - private individuals, restricted venues, or sensitive delegations - all projects operate under formal NDA. Advance coordination is completed for every international group programme: venue scouting, route planning, emergency protocols. Client security team liaison is available on request.</p>
       <p>I speak fluent Chinese and English, and some French. From first brief to final handshake, every project is personally led and professionally delivered.</p>
          </div>
   </div>
