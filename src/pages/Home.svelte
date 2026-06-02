@@ -6,7 +6,7 @@
 
   const services = [
     ['Private Groups & Families', 'Private Events & Celebrations', 'Exclusive venues, full production, bilingual coordination. From intimate dinners to 200-guest galas.', 'https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/homepage-events.jpg', '/services#private-events'],
-    ['International Groups', 'Cultural Experiences', 'Adventures and hutong immersions, designed around your group and interests.', 'https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/homepage-cultural.jpg', '/services#cultural'],
+    ['International Groups', 'Cultural Experiences', 'Adventures and hutong immersions — every experience designed around your group and interests.', 'https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/homepage-cultural.jpg', '/services#cultural'],
     ['Companies & Institutions', 'Corporate & Conference Support', 'Bilingual coordination for VIP groups and conferences: interpretation, transport, and multi-city logistics.', 'https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/homepage-corporate.JPG', '/services#corporate']
   ];
 </script>
@@ -22,7 +22,7 @@
     <p class="subline mb-7 text-base">From exclusive gala dinners to corporate conferences, we source the venues, build the team, and orchestrate every detail. English-managed. Across China.</p>
     <div class="flex flex-wrap gap-4">
       <a class="btn btn-gold" href={whatsappUrl} target="_blank" rel="noopener"><span class="h-5 w-5 fill-current"><WhatsAppIcon /></span>WhatsApp</a>
-      <a class="btn btn-outline" href="/services">What We Do →</a>
+      <a class="btn btn-outline" href="/cases">What We Do →</a>
     </div>
   </div>
 </section>
@@ -85,7 +85,7 @@
     <div>
       <p class="section-label">Who is behind this?</p>
       <h2 class="display-2 mb-6">Kerry Kong</h2>
-      <p class="mb-5 max-w-2xl text-creamMuted">Founder, lead coordinator, and Shanghai-based event producer with 6+ years delivering premium events and cultural programmes across China.</p>
+      <p class="mb-5 max-w-2xl text-creamMuted">Founder, lead coordinator, and Shanghai-based event producer with 6+ years delivering premium events and cultural programmes across China.Her clients span academic institutions, corporate delegations, and UHNW private families from 8 countries across Europe, the Middle East, and beyond.</p>
       <a class="btn btn-outline" href="/about">About Kerry →</a>
     </div>
     <img class="h-[500px] w-full rounded object-cover" src="https://mtcbguwohuzkivbplupb.supabase.co/storage/v1/object/public/LuxChinaGallery/kerry-teaser.jpg" alt="Kerry Kong" />

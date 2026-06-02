@@ -8,9 +8,9 @@ export const cases = [
     client: 'Russian UHNW Clients & Corporate Incentive',
     cover: 'Great Wall Banquet/cover.jpg',
     description:
-      'Private speedboats, exclusive Wall access, a traditional Chinese cultural performance on the Wall, then a hilltop terrace lunch with private chef, traditional Chinese string music, and unobstructed Great Wall views.',
+      'A private banquet on the Great Wall of China — up to 40 guests, no public access, no queues. Exclusive from arrival to departure.',
     details:
-      'A private Beijing experience for 5-40 guests: exclusive private speedboat transfer, reserved cable car access, traditional Chinese cultural performance, and hilltop terrace banquet with private chef. Suited for corporate incentive groups, UHNW private clients, and luxury brand activations in China.',
+      'A private Beijing experience for 5–40 guests: exclusive speedboat transfer to the Great Wall; private magnetic cable car cabin, fully reserved for ascent and descent — ideal for guests who prefer not to climb; traditional Chinese performance on the Wall — kung fu, opera, or dance tailored to your group; hilltop terrace banquet with private chef and live guzheng music. Full on-ground coordination and bespoke entertainment included.',
     gallery: [
       ['landscape', 'Great Wall Banquet/IMG_7869.JPG'],
       ['square', 'Great Wall Banquet/gw-05.jpg'],
@@ -31,9 +31,21 @@ export const cases = [
     client: 'International Families · EMBA Groups · Private Clients',
     cover: ' Exclusive Access/rt-01.jpg',
     description:
-      'Club 33 at Shanghai Disney, F1 ticketing and Paddock Club access, private yacht dinners, Disneyland English concierge and VIP entry. Where the booking is not publicly available, we make the call.',
+      "Club 33 at Shanghai Disneyland — invitation-only private club, exclusive park entrance, members-only areas, reserved fireworks viewing. F1 Paddock Club. Private yacht on the Huangpu. Where public booking isn't possible, we arrange it.",
     details:
-      'Exclusive access and private reservations in Shanghai: members-only dining, F1 hospitality, private yacht dinner on the Huangpu River, and VIP entry. Tell us your destination and we will build around what that city uniquely offers.',
+    /**
+     * VIP Concierge · Club 33 Shanghai 
+Membership is by invitation only — no public waitlist exists. Accessed through established channels, with English concierge throughout and a private dining room available upon request.
+
+Formula 1 · Paddock Club
+Paddock Club hospitality for the Shanghai Grand Prix — trackside premium lounge overlooking the pit lane, gourmet hospitality, and a pit lane walk during non-race periods. The closest you can get to the cars.               
+  
+Private Yacht  & Rooftop Dining  
+Private yacht dinner on the Huangpu River with panoramic views of Lujiazui and the Bund, private chef, wine programme, and entertainment fully customisable to your group. Rooftop venue dining above the Shanghai skyline also available.
+
+Every city has its own version of access like this. What we arrange in Beijing, Yangshuo or Harbin looks nothing like Shanghai. Tell us your destination and we will build around what that city uniquely offers.
+     */
+      "VIP Concierge · Club 33 Shanghai: Membership is by invitation only — no public waitlist exists. Accessed through established channels, with English concierge throughout and a private dining room available upon request.\n\nFormula 1 · Paddock Club: Paddock Club hospitality for the Shanghai Grand Prix — trackside premium lounge overlooking the pit lane, gourmet hospitality, and a pit lane walk during non-race periods. The closest you can get to the cars.\n\nPrivate Yacht  & Rooftop Dining: Private yacht dinner on the Huangpu River with panoramic views of Lujiazui and the Bund, private chef, wine programme, and entertainment fully customisable to your group. Rooftop venue dining above the Shanghai skyline also available.\n\nEvery city has its own version of access like this. What we arrange in Beijing, Yangshuo or Harbin looks nothing like Shanghai. Tell us your destination and we will build around what that city uniquely offers.",
     groups: [
       {
         label: 'VIP Concierge · Club 33 Shanghai',
@@ -70,9 +82,9 @@ export const cases = [
     client: 'Gazprom Media · 30 Guests',
     cover: 'Karst Mountain Gala Dinner/_ALG3958.jpg',
     description:
-      'Exclusive karst venue gala with ancient costume photo booth, fortune-telling by trained parrots, master calligrapher scrolls, live traditional ensemble, kung fu show, and DJ party until midnight.',
+      'An evening of authentic Chinese cultural programming unlike anything else in China — up to 50 guests on a hilltop karst venue above Guilin, from welcome cocktails to DJ until midnight beneath fairy-light canopies.',
     details:
-      'A private gala for up to 50 guests in Yangshuo with panoramic limestone peak views, welcome cocktails, cultural tasting journey, bespoke keepsakes, live performance, and full event production.',
+      "Exclusive hilltop karst venue, Yangshuo — unobstructed panoramic views over Guilin's limestone peaks. Programme: welcome cocktails; oriental five-flavour tasting journey through Chinese elemental food culture; Han dynasty costume photo booth for personalised keepsake portraits; fortune-telling by trained parrots with a Zhuang ethnic minority master; master calligrapher crafting bespoke scroll keepsakes; live guzheng, pipa, erhu and flute ensemble; kung fu performance; DJ until midnight beneath fairy-light canopies. Full cultural programming, bespoke catering, and on-ground coordination included.",
     gallery: [
       ['square', 'Karst Mountain Gala Dinner/EC6964DB-E6F9-4CE2-BD31-47D419CE1469.PNG', 'center 65%'],
       ['square', 'Karst Mountain Gala Dinner/ddc02347em3c534062910368df2bf54d.JPG'],
@@ -94,9 +106,9 @@ export const cases = [
     client: 'Fudan University Global EMBA Group · 50 Guests',
     cover: 'Cruise dinner/cruise-03.jpg',
     description:
-      'Private cruise charter dinner for groups of 20-100 with private chef menu, open bar, and entertainment from Sichuan face-changing to live Chinese folk music or DJ.',
+      'Dinner cruise on the Huangpu River — private charter for 20 to 100 guests in Shanghai or Guangzhou. Panoramic city skyline from floor-to-ceiling windows, reserved entirely for your group. Private chef menu, premium bar, and entertainment fully tailored to your event.',
     details:
-      'Private cruise charter dinner in Shanghai or Guangzhou with panoramic city views, custom menus, premium bar, entertainment, floral decor, photo activations, and full event production.',
+"Private cruise charter dinner for groups of 20–100 in Shanghai or Guangzhou — floor-to-ceiling windows with panoramic city views, access to the newest boats in both cities. Fully customisable: private chef multi-course dinner; premium open bar; entertainment options including Sichuan face-changing, kung fu, guzheng and pipa ensemble, Chinese folk music band, or DJ. Bespoke floral décor, on-deck photo activation, and full event production included. Also available for corporate brand launches and product events.",
     gallery: [
       ['portrait', 'Cruise dinner/IMG_0965.jpg', 'center 40%'],
       ['portrait', 'Cruise dinner/cover.jpg', 'center 55%'],
@@ -116,9 +128,9 @@ export const cases = [
     client: 'National Carbon Measurement Center · Nanping, Fujian',
     cover: 'MICE Support/634331AB-630E-4E92-8C6F-8034C1379B54.jpg',
     description:
-      'Bilingual coordination, professional interpretation, transport, venue and supplier management for technical delegations and conferences.',
+"Corporate and academic MICE support across China: agenda design, supplier sourcing, professional interpretation, transport, venue coordination. End-to-end management from briefing to debrief.",
     details:
-      'Corporate and academic MICE support across China: agenda design, supplier sourcing, professional interpretation, transport, venue coordination, and on-site bilingual management.',
+"Professional MICE and interpretation services across China. Interpreter team covers English, Chinese, Turkish, Russian, Arabic, Spanish, French, and additional languages on request. Services include: simultaneous interpretation with full SI equipment setup; bilingual on-site coordination for international groups; trade fair representation at the Canton Fair, China International Import Expo, and major China industry exhibitions; private chauffeuring and corporate inspection accompaniment. Past projects include the China-Europe Young Scientists Symposium on Green and Low-Carbon Technologies (Nanping, Fujian) — a 200-pax academic conference with English coordination for 30 international scientists and opening remarks by the Deputy Director-General, Department of International Cooperation, Ministry of Science and Technology, China.",
     gallery: [
       ['portrait', 'MICE Support/IMG_7799.jpg'],
       ['square', 'MICE Support/302F729F-0685-4C68-974C-467D43A63678.jpg'],
@@ -138,7 +150,7 @@ export const cases = [
     client: 'MICE Groups & International Study Programmes',
     cover: 'China innovative site/IMG_8059.jpg',
     description:
-      'Curated visits to China innovation sites, institutions, and corporate campuses with bilingual coordination and executive-level logistics.',
+"Executive study tours and innovation visits designed for business schools, MICE groups, and international delegations seeking credible access to China's business and technology ecosystem.",
     details:
       'Study programmes and innovation visits designed for business schools, MICE groups, and international delegations seeking credible access to China’s business and technology ecosystem.',
     gallery: [
@@ -159,9 +171,9 @@ export const cases = [
     client: 'Tsinghua University SEM · Netherlands Consulate · International Groups',
     cover: ' Cultural Masterclasses/87d567e67c07b8b9aada38701deb5528.JPG',
     description:
-      'Private calligraphy, Song Dynasty matcha ceremony, dumpling-making in a Beijing courtyard, and tai chi above Shanghai’s skyline, each held in an authentic venue and facilitated in English.',
+"Private cultural masterclasses in authentic venues across China — facilitated in English for corporate groups, diplomats, and private clients. ",
     details:
-      'Bespoke cultural programmes for diplomats, academics, corporate groups, and private clients across China. Available standalone or as part of a full multi-city itinerary.',
+"Bespoke cultural programmes for corporate groups, diplomats, academics, and private clients across China — Shanghai, Beijing, Hangzhou, Suzhou, Xi'an, Guilin, Chengdu, and beyond. Activities include: private calligraphy masterclasses with nationally recognised masters; Song Dynasty matcha ceremony with single-session tasting of six distinct Chinese teas, with optional visits to nearby tea plantations; hands-on dumpling-making in a private hutong courtyard adjacent to the Forbidden City; private tai chi with a Shaolin-lineage instructor. Past clients include Tsinghua University SEM, the Netherlands Consulate Shanghai, and international groups from Europe, the Middle East, and Australia. English-facilitated, fully customised, available standalone or as part of a multi-city itinerary.",
     gallery: [
       ['portrait', ' Cultural Masterclasses/IMG_7758.jpg'],
       ['portrait', ' Cultural Masterclasses/2FA8F5E3-F82F-4A74-A94D-B6A8F1F022C1.jpg', 'center top'],
@@ -184,9 +196,9 @@ export const cases = [
     client: 'International Retreat Groups',
     cover: 'Yangshuo Adventure Culture & Wellness/ys-04.jpg',
     description:
-      'ATV convoy, baduanjin at a panoramic Li River viewpoint, cave exploration, tea-picking, ancient village hiking, and private cormorant fishing pier with Hanfu photos.',
+"Full-day private programme in Yangshuo — adventure, culture, and wellness across the karst landscape. From ATV convoy through the karst trails to a private cormorant fishing pier at dusk. Arranged exclusively for your group.",
     details:
-      'Yangshuo full-day immersion for international retreat groups, family experiences, and corporate off-sites in Guangxi.',
+"Full-day immersive programme in Yangshuo, Guangxi: ATV convoy through karst mountain trails near Guilin; guided cave exploration with optional private underground gala dinner; tea-picking on a hillside plantation; ancient village and old street hiking through local villages; private cormorant fishing experience at dusk — dedicated pier, Hanfu, afternoon tea, and free-flow drinks; panoramic Li River viewpoint for morning taichi or baduanjin. Curated for international retreat groups, corporate off-sites, and family experiences.",
     gallery: [
       ['portrait', 'Yangshuo Adventure Culture & Wellness/CB9F7B06-188A-43FF-BF38-0FDD27CD40CC.PNG'],
       ['portrait', 'Yangshuo Adventure Culture & Wellness/2CE0218F-1533-4D04-8AA8-A9933D33E5C2.jpg'],
@@ -206,8 +218,8 @@ export const cases = [
     client: 'Corporate Incentive & Private Groups',
     cover: 'Winter Expedition/IMG_6237.JPG',
     description:
-      'VIP snowmobile convoy, private scenic park tour, ice house hotpot, volcanic canyon hike, fireside tea, private fireworks, and priority Harbin Ice & Snow World entry.',
-    details: 'Full winter expedition portfolio available on request.',
+"Private winter expedition through Changbai Mountain and Harbin — exclusive access across Northeast China in deep winter. No public routes. No group tours. Private fireworks after dark.",
+    details: "Suited for corporate incentive groups and UHNW private clients seeking exclusive winter access in Northeast China. Changbai Mountain: VIP snowmobile convoy through frozen pine forests; private car tour of the scenic park; ice house hotpot at -20°C; volcanic canyon hike ending at the First Spring with fireside tea; private fireworks display after dark. Harbin: priority entry to Ice & Snow World's 521m main ice slide; private tiger-feeding car at Northeast Tiger Park.",
     gallery: [
       ['portrait', 'Winter Expedition/93e888338ebeb3867f3fa715e041ea06.JPG'],
       ['portrait', 'Winter Expedition/EF9DA908-D00A-4E03-B8AB-7706390DB2A8.jpg'],

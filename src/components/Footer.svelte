@@ -25,14 +25,15 @@
       <h4 class="mb-4 text-xs font-semibold uppercase tracking-[0.18em] text-gold">Navigate</h4>
       <div class="flex flex-col gap-2 text-sm text-creamMuted">
         <a href="/" class="hover:text-gold">Home</a>
-        <a href="/work" class="hover:text-gold">Our Work</a>
+        <a href="/cases" class="hover:text-gold">Our Work</a>
         <a href="/services" class="hover:text-gold">Services</a>
         <a href="/about" class="hover:text-gold">About Kerry</a>
       </div>
     </div>
   </div>
   <div class="mx-auto flex max-w-7xl flex-wrap justify-between gap-3 border-t border-white/5 pt-6 text-xs text-creamMuted/45">
-    <p>© 2026 LuxChinaCompass · 上海慧利佳商务咨询有限公司</p>
+    <p>© 2026 LuxChinaCompass · 上海乐客思文化传媒有限公司
+</p>
     <p>Shanghai, China · info@luxchinacompass.com</p>
   </div>
 </footer>

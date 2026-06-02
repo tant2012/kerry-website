@@ -10,7 +10,7 @@
       <h1 class="display-1 mb-4">Kerry Kong</h1>
       <p class="mb-7 text-sm font-medium tracking-wider text-creamMuted">Shanghai-based · Bilingual CN-EN · 6+ Years Experience</p>
       <p class="mb-5 leading-8 text-creamMuted">As a child, I drew a globe with children of every colour holding hands around it. That image stayed with me, and eventually became a company.</p>
-      <p class="mb-7 leading-8 text-creamMuted">My clients span Russia, the Netherlands, Italy, the USA, Australia, South Africa, and Qatar. Most tell me the same thing at some point: <em>Kerry, you're not like any Chinese I've met before.</em></p>
+      <p class="mb-7 leading-8 text-creamMuted">My clients span Russia, the Netherlands, Italy, the USA, Australia, South Africa, and Qatar. Most tell me the same thing at some point: <em>Kerry, you're not like any Chinese I've met before — not just the language, but someone who truly gets what you need, and why it matters.</em></p>
       <a class="btn btn-gold" href={whatsappUrl} target="_blank" rel="noopener">WhatsApp Kerry</a>
     </div>
   </div>
@@ -24,9 +24,10 @@
       <p>Sourcing the right people. Running events across multiple cities. Delivering to international standards.</p>
       <p>The real challenge runs deeper than logistics. Clients arrive with a clear vision and high expectations. What they need is someone who can receive that vision at the right depth, carry it into local execution without losing the intent, and hold that standard through every detail and contingency.</p>
       <p>Kerry leads a network of 50+ vetted specialists: certified simultaneous interpreters, private chefs, cultural masters, and production staff deployed across China.</p>
-      <p>For confidential or high-profile engagements, all projects operate under formal NDA. Advance coordination is completed for every international group programme: venue scouting, route planning, emergency protocols, and security team liaison on request.</p>
-      <p>I speak fluent Chinese and English, and some French. From first brief to final handshake, every project is personally led and professionally delivered.</p>
-    </div>
+      <p>For confidential or high-profile engagements - private individuals, restricted venues, or sensitive delegations - all projects operate under formal NDA. Advance coordination is completed for every international group programme: venue scouting, route planning, emergency protocols. Emergency security team liaison is available on request.</p>
+      <p>English-language contracts and VAT-compliant invoicing are standard.</p>
+      <!-- <p>I speak fluent Chinese and English, and some French. From first brief to final handshake, every project is personally led and professionally delivered.</p> -->
+      <p>Professional interpretation available in English, French, Spanish, Arabic, and Russian, with diplomatic and conference credentials.</p>    </div>
   </div>
 </section>
 

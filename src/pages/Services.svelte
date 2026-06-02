@@ -26,9 +26,9 @@
       link: '/cases',
       alt: true,
       pillars: [
-        ['Private Master Sessions', 'Tea masters, calligraphy artists, martial arts instructors, and traditional craft experts with exclusive access to restricted cultural venues.'],
+        ['Private Master Sessions', 'Tea masters, calligraphy artists, martial arts instructors, and traditional craft experts with exclusive access to restricted cultural venues including after-hours and private use, arranged through our established institutional partnerships.'],
         ['Local Immersion', 'Market tours, tea village visits, dumpling-making in private kitchens, and hands-on experiences that reveal how locals actually live.'],
-        ['Custom Itinerary Design', 'Full-day or multi-day cultural programmes built around your group’s interests, city, timing, and group size.']
+        ['Custom Itinerary Design', 'Full-day or multi-day cultural programmes built around your group’s interests. From 2-person private sessions to 200-guest galas, across any Chinese city.']
       ]
     },
     {
