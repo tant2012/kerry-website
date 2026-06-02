@@ -10,7 +10,7 @@
       image: 'services/A9A0D77F-3180-4038-A289-68C3562AB271.jpg',
       lead: 'Exclusive venues, full production, bilingual coordination. We source the location, assemble the team, and run the event with an English-speaking team on-site from start to finish.',
       cta: 'See real events we have produced →',
-      link: '/cases?hash=events',
+      link: '/cases#events',
       pillars: [
         ['Venue & Production', 'Exclusive locations across China and full technical production: sound, lighting, staging. From intimate dinners to 200-guest galas.'],
         ['Catering & Floral Design', 'Private chefs, custom menus, wine and cocktail programmes, floral centrepieces designed for the venue and the occasion.'],
@@ -25,7 +25,7 @@
       image: 'services/ho-04.jpg',
       lead: 'Private sessions with nationally recognised masters at locations tourists never reach. For groups who want to understand China, not just see it.',
       cta: 'See real cultural projects we have run →',
-      link: '/cases?hash=cultural',
+      link: '/cases#cultural',
       alt: true,
       pillars: [
         ['Private Master Sessions', 'Tea masters, calligraphy artists, martial arts instructors, and traditional craft experts with exclusive access to restricted cultural venues, including after-hours and private use, arranged through our established institutional partnerships.'],
@@ -41,7 +41,7 @@
       image: 'services/WechatIMG19.jpg',
       lead: 'Bilingual coordination for international corporate visits and conferences in China. Airport reception through final departure: you focus on the business, we handle the logistics.',
       cta: 'See real corporate projects we have run →',
-      link: '/cases?hash=corporate',
+      link: '/cases#corporate',
       pillars: [
         ['Multi-City Logistics', 'Chauffeured vehicles, VIP airport reception, inter-city transfers, and hotel coordination across any number of Chinese cities.'],
         ['Simultaneous Interpretation', 'Professional interpreters for conferences, meetings, and site visits in English, French, Spanish, Arabic, and Russian.'],

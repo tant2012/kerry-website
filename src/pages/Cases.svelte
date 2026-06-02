@@ -1,18 +1,19 @@
 <script>
-import CaseCard from '../components/CaseCard.svelte';
+  import CaseCard from "../components/CaseCard.svelte";
 
-import { cases } from '../lib/cases';
+  import { cases } from "../lib/cases";
+  import { onMount } from "svelte";
 
+  let filter = "all";
 
-let filter = 'all';
+  onMount(() => {
+    filter = window.location.hash.replace("#", "") || "all";
+  });
 
-let expandedId = '';
+  let expandedId = "";
 
-
-
-$: filteredCases = filter === 'all' ? cases : cases.filter((item) => item.category === filter);
-
-
+  $: filteredCases =
+    filter === "all" ? cases : cases.filter((item) => item.category === filter);
 </script>
 
 <section class="px-6 pb-12 pt-36 text-center lg:px-10">
@@ -25,7 +26,10 @@ $: filteredCases = filter === 'all' ? cases : cases.filter((item) => item.catego
     <button
       class:active={filter === option}
       class="rounded-full border border-gold/20 px-5 py-2 text-sm capitalize text-creamMuted transition hover:border-gold hover:text-cream"
-      on:click={() => { filter = option; expandedId = ''; }}
+      on:click={() => {
+        filter = option;
+        expandedId = "";
+      }}
     >
       {option}
     </button>
