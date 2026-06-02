@@ -122,7 +122,7 @@ Every city has its own version of access like this. What we arrange in Beijing, 
   {
     id: 'scientists',
     category: 'corporate',
-    city: 'Multiple city',
+    city: 'Multiple cities',
     type: 'Corporate',
     title: 'MICE Support',
     client: 'National Carbon Measurement Center · Nanping, Fujian',
